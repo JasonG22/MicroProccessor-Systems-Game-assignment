@@ -1,6 +1,6 @@
 Link to Project video https://youtu.be/-Aud4VfSPMk?si=5o4y8xpCODXmMtZo
 
-This project is a space shooter game developed as a group assignment for the STM32 microcontroller board. 
+This project is a space shooter game developed as a group assignment for the STM32 microcontroller board.( Scored 62%)
 The goal was to create a complete and functional game that showcased our embedded programming skills while meeting a set of assessment criteria that included gameplay quality, code structure, use of graphics, originality, and interactivity.
 
 As a group, we worked together on most aspects of the game collectively, including the design of the menu system, graphics, scoring, and overall game loop. 
